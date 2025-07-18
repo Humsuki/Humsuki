@@ -24,9 +24,8 @@
 
 | Language | Tooling & Libs | Visualization |
 |----------|----------------|---------------|
-| `Tableau`, `Power BI` |
 | `SQL` | `MySQL`, `PostgreSQL` |
-| `Excel` | `Pivot Tables`, `Power Query` | `Charts`, `Dashboards` |
+| `Excel` | `Pivot Tables`, `Power Query` | `Charts`, `Dashboards`, `Tableau`, `Power BI` |
 
 ---
 
