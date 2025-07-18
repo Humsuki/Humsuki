@@ -63,7 +63,7 @@ I’m Gabriela – a self-taught, analytical thinker currently transitioning int
 ### 📌 Fun Facts
 
 - 🎨 Obsessed with dashboards and color-coded spreadsheets  
-- 🧩 Taught myself Python using memes and YouTube  
+- 🧩 Taught myself SQL using memes and YouTube  
 - 🧳 Currently living in Poland but remote and mobile
 
 <p align="center">
