@@ -1,31 +1,27 @@
 <h1 align="center">Hi there, I'm Gabriela 👋</h1>
 
 <p align="center">
-  💻 Aspiring <strong>Data Analyst</strong> | 🎨 Budding <strong>UI/UX Designer</strong><br>
-  📍 Based in Poland 🇵🇱 | Fluent in 🇵🇱 🇬🇧<br>
-  📊 Excel, SQL, Tableau/Power BI | 🌱 Learning every day!
+  💻 Aspiring Data Analyst | 📊 Python • SQL • Power BI | 🌍 Remote-Ready (EU & USA)<br>
+  🚀 Career switcher from HR to Data | 🧠 Learning every day
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🔭 I’m currently learning **Data Analysis** using free online resources
-- 🎯 My goals:
-  - Master **SQL & Power BI, Python**
-  - Build a strong **Data Portfolio**
-  - Land a **remote data job**
-- 🧠 I’m also diving into **UI/UX Design** for bonus skills
-- 🫶 I believe in the power of **self-learning**, community and memes
+I’m Gabriela – a self-taught, analytical thinker currently transitioning into Data Analytics from a background in HR and operations. I’m passionate about transforming raw data into actionable insights that help businesses make smarter decisions.
+
+💡 **Core values**: Curiosity, clarity, collaboration  
+🌱 **Currently learning**: SQL for Data Analysis, Dashboards in Power BI  
+🎯 **Goal**: Land a remote data role and help teams grow through better data
 
 ---
 
 ### 📚 Tech Stack
 
-| Language | Tooling & Libs | Visualization |
-|----------|----------------|---------------|
-| `SQL` | `MySQL`, `PostgreSQL` |
-| `Excel` | `Pivot Tables`, `Power Query` | `Charts`, `Dashboards`, `Tableau`, `Power BI` |
+- **Languages**: SQL, Python (starting) 
+- **Tools**: Power BI, Excel, Tableau 
+- **Bonus**: HR background + UI/UX interest + business-ready mindset
 
 ---
 
@@ -64,4 +60,12 @@
 
 ---
 
-> ⚡ Fun Fact: I'm self-taught, stubborn, and slightly addicted to Excel formulas and color palettes.
+### 📌 Fun Facts
+
+- 🎨 Obsessed with dashboards and color-coded spreadsheets  
+- 🧩 Taught myself Python using memes and YouTube  
+- 🧳 Currently living in Poland but remote and mobile
+
+<p align="center">
+  ✨ Let's turn data into stories!
+</p>
